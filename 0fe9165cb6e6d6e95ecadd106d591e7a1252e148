@@ -1,68 +1,7 @@
-frontend/src/lib/utils/tool-params.ts
-  8045ad3774437dd9 106-109,137
-frontend/src/lib/utils/tool-params.test.ts
-  8045ad3774437dd9 317-362
-frontend/src/lib/components/content/ToolBlock.svelte
-  8045ad3774437dd9 30-34,36
-frontend/src/lib/utils/content-parser.test.ts
-  8045ad3774437dd9 618,620,630,724-882
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.1.6",
   "base_commit_sha": "0fe9165cb6e6d6e95ecadd106d591e7a1252e148",
-  "prompts": {
-    "0da2a822636b444b": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "eb6bce6e-c165-4092-a2ce-bfc9ed8f3c45",
-        "model": "claude-sonnet-4-6"
-      },
-      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
-      "messages": [],
-      "total_additions": 0,
-      "total_deletions": 0,
-      "accepted_lines": 1,
-      "overriden_lines": 0
-    },
-    "8045ad3774437dd9": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "fb351d9f-1590-43e1-b86e-37bd1fe159f9",
-        "model": "claude-sonnet-4-6"
-      },
-      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
-      "messages": [],
-      "total_additions": 162,
-      "total_deletions": 3,
-      "accepted_lines": 219,
-      "overriden_lines": 0
-    },
-    "8765a61e1a720a17": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "6d3ce83c-6069-4ac5-b872-d6e053c20e2a",
-        "model": "claude-sonnet-4-6"
-      },
-      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
-      "messages": [],
-      "total_additions": 0,
-      "total_deletions": 0,
-      "accepted_lines": 10,
-      "overriden_lines": 0
-    },
-    "e890992242f77757": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "601b4282-5c5e-43d6-832f-fcb9c76c2a6f",
-        "model": "claude-sonnet-4-6"
-      },
-      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
-      "messages": [],
-      "total_additions": 0,
-      "total_deletions": 0,
-      "accepted_lines": 12,
-      "overriden_lines": 0
-    }
-  }
+  "prompts": {}
 }
