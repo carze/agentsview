@@ -1,0 +1,35 @@
+.planning/codebase/STRUCTURE.md
+  e890992242f77757 1-405
+.planning/codebase/ARCHITECTURE.md
+  e890992242f77757 1-212
+.planning/codebase/INTEGRATIONS.md
+  e890992242f77757 1-141
+.planning/codebase/STACK.md
+  e890992242f77757 1-131
+.planning/codebase/CONVENTIONS.md
+  e890992242f77757 1-268
+.planning/codebase/CONCERNS.md
+  e890992242f77757 1-191
+.planning/codebase/TESTING.md
+  e890992242f77757 1-496
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "c1d625eeca287ed0d89249bb3bee0a70144437b8",
+  "prompts": {
+    "e890992242f77757": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "601b4282-5c5e-43d6-832f-fcb9c76c2a6f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 1844,
+      "total_deletions": 0,
+      "accepted_lines": 1844,
+      "overriden_lines": 0
+    }
+  }
+}
