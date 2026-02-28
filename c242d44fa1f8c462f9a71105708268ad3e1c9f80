@@ -1,0 +1,38 @@
+internal/sync/engine_integration_test.go
+  8765a61e1a720a17 85,2318-2370
+cmd/agentsview/main.go
+  8765a61e1a720a17 152,164,379-383
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "c242d44fa1f8c462f9a71105708268ad3e1c9f80",
+  "prompts": {
+    "8765a61e1a720a17": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d3ce83c-6069-4ac5-b872-d6e053c20e2a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 63,
+      "total_deletions": 1,
+      "accepted_lines": 61,
+      "overriden_lines": 0
+    },
+    "e890992242f77757": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "601b4282-5c5e-43d6-832f-fcb9c76c2a6f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
