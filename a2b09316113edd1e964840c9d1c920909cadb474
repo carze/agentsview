@@ -1,0 +1,49 @@
+internal/parser/taxonomy_test.go
+  0662e27278ce47f3 46-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "a2b09316113edd1e964840c9d1c920909cadb474",
+  "prompts": {
+    "0662e27278ce47f3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c75f303f-006e-406b-8c95-24c860270c2c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 0,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    },
+    "8765a61e1a720a17": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d3ce83c-6069-4ac5-b872-d6e053c20e2a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    },
+    "e890992242f77757": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "601b4282-5c5e-43d6-832f-fcb9c76c2a6f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
