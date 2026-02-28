@@ -1,0 +1,53 @@
+frontend/src/lib/components/content/ToolBlock.svelte
+  40751a2ea606f20b 37-41
+frontend/src/lib/utils/tool-params.ts
+  40751a2ea606f20b 108
+frontend/src/lib/utils/content-parser.ts
+  40751a2ea606f20b 438-440
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "4151fdfc651bfbe11cd4c110767bd648c038dd9f",
+  "prompts": {
+    "40751a2ea606f20b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5710c8ea-c152-4b14-8ddd-43f24116a9aa",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 4,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    },
+    "8765a61e1a720a17": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d3ce83c-6069-4ac5-b872-d6e053c20e2a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    },
+    "e890992242f77757": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "601b4282-5c5e-43d6-832f-fcb9c76c2a6f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
