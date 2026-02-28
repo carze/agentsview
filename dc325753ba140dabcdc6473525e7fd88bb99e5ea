@@ -1,0 +1,51 @@
+frontend/src/lib/utils/content-parser.test.ts
+  cc22f7712598668c 608-631
+frontend/src/lib/utils/content-parser.ts
+  cc22f7712598668c 346-350,391-408
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "dc325753ba140dabcdc6473525e7fd88bb99e5ea",
+  "prompts": {
+    "8765a61e1a720a17": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d3ce83c-6069-4ac5-b872-d6e053c20e2a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    },
+    "cc22f7712598668c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d33324c-53d0-46f5-a505-0bb73d4c2c15",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 57,
+      "total_deletions": 10,
+      "accepted_lines": 47,
+      "overriden_lines": 0
+    },
+    "e890992242f77757": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "601b4282-5c5e-43d6-832f-fcb9c76c2a6f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
