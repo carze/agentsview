@@ -1,0 +1,51 @@
+internal/config/config.go
+  8765a61e1a720a17 41-42,63,123,152-154,221-224
+.planning/ROADMAP.md
+  3d811062fe7a1918 47,50-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "ef574bbb8e5492674a5ba13551bf2e12773d1294",
+  "prompts": {
+    "3d811062fe7a1918": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5016c659-650c-4ec6-a2e1-f18002b841ba",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 4,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    },
+    "8765a61e1a720a17": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d3ce83c-6069-4ac5-b872-d6e053c20e2a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 0,
+      "accepted_lines": 11,
+      "overriden_lines": 0
+    },
+    "e890992242f77757": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "601b4282-5c5e-43d6-832f-fcb9c76c2a6f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
