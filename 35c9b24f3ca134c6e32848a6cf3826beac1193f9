@@ -1,0 +1,81 @@
+internal/parser/taxonomy.go
+  0da2a822636b444b 76,79-82
+frontend/src/lib/utils/content-parser.ts
+  0da2a822636b444b 42-46,367,405-416,419-420
+.planning/ROADMAP.md
+  b8212c789a73dd97 80,83,86
+frontend/src/lib/utils/content-parser.test.ts
+  0da2a822636b444b 633-700
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "35c9b24f3ca134c6e32848a6cf3826beac1193f9",
+  "prompts": {
+    "0da2a822636b444b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eb6bce6e-c165-4092-a2ce-bfc9ed8f3c45",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 94,
+      "total_deletions": 4,
+      "accepted_lines": 93,
+      "overriden_lines": 0
+    },
+    "8765a61e1a720a17": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d3ce83c-6069-4ac5-b872-d6e053c20e2a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    },
+    "b8212c789a73dd97": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7eac31a9-c3d2-494a-a844-86af424a1993",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 3,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    },
+    "cc22f7712598668c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d33324c-53d0-46f5-a505-0bb73d4c2c15",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    },
+    "e890992242f77757": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "601b4282-5c5e-43d6-832f-fcb9c76c2a6f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
