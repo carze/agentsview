@@ -1,0 +1,25 @@
+internal/parser/pi.go
+  fb3894bd319ad272 117
+internal/parser/pi_test.go
+  fb3894bd319ad272 242-259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "7c6d5f3ee6942cc807fd82743b777191220403c4",
+  "prompts": {
+    "fb3894bd319ad272": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9badcdca-c1f4-4096-90cc-f76d96ce6b2b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 21,
+      "total_deletions": 5,
+      "accepted_lines": 19,
+      "overriden_lines": 0
+    }
+  }
+}
