@@ -1,0 +1,25 @@
+frontend/src/lib/utils/tool-params.ts
+  47f2f4127d92eed9 132,138-143,147-163
+frontend/src/lib/utils/tool-params.test.ts
+  47f2f4127d92eed9 264-342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "38471f80d0d934126b4bd340ac1719169661528b",
+  "prompts": {
+    "47f2f4127d92eed9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c2b4e60c-4180-4fc0-8020-495d09e9cbf8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 103,
+      "total_deletions": 3,
+      "accepted_lines": 103,
+      "overriden_lines": 0
+    }
+  }
+}
