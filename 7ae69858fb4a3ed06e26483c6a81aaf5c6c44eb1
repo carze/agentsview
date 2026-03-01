@@ -1,0 +1,25 @@
+internal/server/export_test.go
+  47f2f4127d92eed9 550-571
+internal/parser/types_test.go
+  47f2f4127d92eed9 17,87-91,133,183-191
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "7ae69858fb4a3ed06e26483c6a81aaf5c6c44eb1",
+  "prompts": {
+    "47f2f4127d92eed9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c2b4e60c-4180-4fc0-8020-495d09e9cbf8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 40,
+      "total_deletions": 0,
+      "accepted_lines": 40,
+      "overriden_lines": 0
+    }
+  }
+}
