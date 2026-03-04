@@ -1,0 +1,31 @@
+internal/parser/pi.go
+  d961dc6b56e0ecc6 250-253,305-342
+frontend/src/lib/utils/agents.ts
+  d961dc6b56e0ecc6 17
+frontend/src/lib/utils/content-parser.ts
+  d961dc6b56e0ecc6 377,380,416,419,426,451-479
+internal/parser/pi_test.go
+  d961dc6b56e0ecc6 262,266,269,278-326
+frontend/src/lib/utils/agents.test.ts
+  d961dc6b56e0ecc6 20,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "a73c1fd6bdb5f5a31fa172c08f171a806ce99c3d",
+  "prompts": {
+    "d961dc6b56e0ecc6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16696c91-aba4-49d2-a55d-81ede8fa46fc",
+        "model": "<synthetic>"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 137,
+      "total_deletions": 57,
+      "accepted_lines": 133,
+      "overriden_lines": 0
+    }
+  }
+}
