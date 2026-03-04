@@ -1,0 +1,31 @@
+internal/sync/engine_integration_test.go
+  935b023fee621f7b 2809-2814
+frontend/src/lib/utils/agents.test.ts
+  935b023fee621f7b 19,56-59,61
+internal/parser/pi.go
+  935b023fee621f7b 139-140
+frontend/src/lib/utils/agents.ts
+  935b023fee621f7b 16
+internal/parser/pi_test.go
+  935b023fee621f7b 171-172,181-182,184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "2f073d965054e02ff28fa06db7f19801c7fbce6b",
+  "prompts": {
+    "935b023fee621f7b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2835903e-3095-437e-bb3e-4c1d00dc5dfb",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 92,
+      "accepted_lines": 20,
+      "overriden_lines": 0
+    }
+  }
+}
