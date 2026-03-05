@@ -1,0 +1,25 @@
+internal/server/export_test.go
+  d961dc6b56e0ecc6 564
+internal/server/export.go
+  d961dc6b56e0ecc6 321,354
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "8a2af4c2b9619e1ff66cb3659dabc1bb3cb3afa2",
+  "prompts": {
+    "d961dc6b56e0ecc6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16696c91-aba4-49d2-a55d-81ede8fa46fc",
+        "model": "<synthetic>"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
