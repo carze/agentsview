@@ -1,0 +1,23 @@
+frontend/src/lib/components/content/ToolBlock.svelte
+  d961dc6b56e0ecc6 118-121,124-126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "3414dbbc65935a7cafe3992d7068f7c9d07ef32a",
+  "prompts": {
+    "d961dc6b56e0ecc6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16696c91-aba4-49d2-a55d-81ede8fa46fc",
+        "model": "<synthetic>"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 5,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
