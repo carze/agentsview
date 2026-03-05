@@ -1,0 +1,23 @@
+internal/parser/pi.go
+  d961dc6b56e0ecc6 4,328-336,338-342,344
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "a3b95968285a572c4c7f3b1384957b6765969e9e",
+  "prompts": {
+    "d961dc6b56e0ecc6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16696c91-aba4-49d2-a55d-81ede8fa46fc",
+        "model": "<synthetic>"
+      },
+      "human_author": "Cesar Arze <cesar.arze@gmail.com>",
+      "messages": [],
+      "total_additions": 18,
+      "total_deletions": 17,
+      "accepted_lines": 16,
+      "overriden_lines": 0
+    }
+  }
+}
